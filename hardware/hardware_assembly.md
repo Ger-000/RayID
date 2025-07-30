@@ -1,8 +1,7 @@
 # Hardware
 - 3D Design of the structure
 - Arduino Camera Module [https://www.amazon.es/HiLetgo-OV7670-640x480-0-3Mega-Arduino/dp/B0819LMMKL/ref=sr_1_6?crid=3KV2V9NOJINI1&dib=eyJ2IjoiMSJ9.TRXUhKhefgEO__7zPu_LfLjgDmqisjedgIKzkLniafEb_krdRi_Hb2u8wtUcqJ8XwAHhoi1hSkI7mY2ySvU-UHs9hjxBpxU8cenru2yRTFvnmT4v_89BvIvcNlCvMYrmnCHlVN1a4ss4xyGA5krKDxIXCnQOX7ql7h7yFPJk1Al2VzIp8eg0pppmXYZp7Gf7NAhxKcNwfDtrbBK6Gv8bxap48h5AtByZ6dumUZhfrVkY3YCo8iRfatD7WGxjwwfbYCUnIXQgH1C91igNWpFqsnEAXHgK4e6WbIyk9SqLGe4.n_knGdbydoO7IQMmgdPec-usWNqrHomoab5ITFQuN5s&dib_tag=se&keywords=arduino+camera&qid=1751954172&sprefix=arduino+cam%2Caps%2C117&sr=8-6]
-- SUVL Diode [https://www.mouser.es/ProductDetail/Marktech-Optoelectronics/MTE3661N1-UV?qs=DRkmTr78QATPRjZ1g%252BipRA%3D%3D]
-- LUVL Diode [https://www.mouser.es/ProductDetail/Marktech-Optoelectronics/MT0380-UV-A?qs=DRkmTr78QATNxmg%252BzXJFHw%3D%3D]
+- LWUV Diode [https://www.mouser.es/ProductDetail/Marktech-Optoelectronics/MT0380-UV-A?qs=DRkmTr78QATNxmg%252BzXJFHw%3D%3D]
 - Spectroscopy Sensor - AS7265x [https://www.sparkfun.com/sparkfun-triad-spectroscopy-sensor-as7265x-qwiic.html]
 - Arduino Mega 2560 Rev3 [https://store.arduino.cc/collections/giga/products/arduino-mega-2560-rev3]
 - 650nm Diode [https://thepihut.com/products/laser-diode-5mw-650nm-red?variant=27739190353&country=GB&currency=GBP&utm_source=chatgpt.com]
