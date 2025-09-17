@@ -1,0 +1,7 @@
+1. Stick the magnets in the inner shells (I reccomend using hot glue) oriented so that they close the inner shells hermetically. Possibly, you might meed a soldering station or similar product to melt the PLA and be able to 
+make holes, join pieces, etc. 
+2. Put the UV and LED pin in their corresponding holes in the upper inner shell. Connect them to the 2 and 3 pins, respectively. 
+3. Insert the laser in the hole and seal it firmly. I recommend making a small hole with tape in order to make the size of the beam smaller 
+and more precise. [WARNING: ALWAYS USE LASERS CAREFULLY, AND WITH APROPPRIATE EYE PROTECTION (in this case, OD>2 for appx. 650nm)] 
+4. Connect the laser cathode to pin 4 and the anode to GND.
+
