@@ -1,7 +1,6 @@
 # Hardware
 - 3D Design of the structure
-- Arduino Camera Module [https://www.amazon.es/HiLetgo-OV7670-640x480-0-3Mega-Arduino/dp/B0819LMMKL/ref=sr_1_6?crid=3KV2V9NOJINI1&dib=eyJ2IjoiMSJ9.TRXUhKhefgEO__7zPu_LfLjgDmqisjedgIKzkLniafEb_krdRi_Hb2u8wtUcqJ8XwAHhoi1hSkI7mY2ySvU-UHs9hjxBpxU8cenru2yRTFvnmT4v_89BvIvcNlCvMYrmnCHlVN1a4ss4xyGA5krKDxIXCnQOX7ql7h7yFPJk1Al2VzIp8eg0pppmXYZp7Gf7NAhxKcNwfDtrbBK6Gv8bxap48h5AtByZ6dumUZhfrVkY3YCo8iRfatD7WGxjwwfbYCUnIXQgH1C91igNWpFqsnEAXHgK4e6WbIyk9SqLGe4.n_knGdbydoO7IQMmgdPec-usWNqrHomoab5ITFQuN5s&dib_tag=se&keywords=arduino+camera&qid=1751954172&sprefix=arduino+cam%2Caps%2C117&sr=8-6]
-- LWUV Diode [https://www.mouser.es/ProductDetail/Marktech-Optoelectronics/MT0380-UV-A?qs=DRkmTr78QATNxmg%252BzXJFHw%3D%3D]
+- Arduino Color Sensor [https://www.amazon.es/AZDelivery-TCS3200-farberkennung-Colores-Recognition/dp/B07DRDF4SJ/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2BUIGPZGBXGNH&dib=eyJ2IjoiMSJ9.HlT_YFSl7Uep30opcizKE_riqSaVn82nzXpXRj0MXaKV-mJR2XHgBnLKpsCROjQprhHMzdBH-Pf6KKkUEOS80v0FyuTLHKnKjEWUfTpQyOtV8eogYDczCumBvJvlaVWKZg6kzb4sQZwhEAaHbDNEpbR4_VN7R5zA8ybDmXfvqyYEazSx4xsC_9YsJsqzcNQDkY5WATJRK3UJjxZ6gH5hP70OtYi_FgUy_klNDpwe7GUtWWvhnM8pDJtiaZ-oQ2KbE4FiKK71ot8_aphsH9xJJdzWzqEerojHeRMAwK2im1k.Mq3gLJDvIMA44DW0X2eE4sQj5xCWi9LLNdwp1l16O-0&dib_tag=se&keywords=arduino%2Bcolor%2Bsensor&qid=1758999991&sprefix=arduino%2Bcolor%2Bsensor%2Caps%2C65&sr=8-1&th=1]
 - White LED Diode (you can find them cheap in Amazon if you don't have one lying around)
 - Spectroscopy Sensor - AS7265x [https://www.sparkfun.com/sparkfun-triad-spectroscopy-sensor-as7265x-qwiic.html]
 - Arduino Mega 2560 Rev3 [https://store.arduino.cc/collections/giga/products/arduino-mega-2560-rev3]
